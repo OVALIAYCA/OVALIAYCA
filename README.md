@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @OVALIAYCA
+- 👀 Passionate Software Tester with a keen eye for detail and a drive for quality assurance.
+- 🌱 Currently expanding my skills in [specific testing tool or methodology, e.g., "Selenium WebDriver" or "AI-driven testing"].
+- 🕵️ Specialized in manual and automated software testing
+- 🤖 Self-developed in creating and maintaining test automation frameworks
+- 💞️ Always eager to collaborate on innovative testing solutions and open-source testing tools.
+- 🏅 ISTQB Certified Tester
